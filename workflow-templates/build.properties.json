@@ -1,4 +1,4 @@
 {
     "name": "Communal Helper Build Workflow",
-    "description": "Builds the mod for every pull or push request to the default branch.",
+    "description": "Builds the mod for every pull or push request to the default branch."
 }
