@@ -1,0 +1,4 @@
+{
+    "name": "Communal Helper Release Workflow",
+    "description": "Packages a release build when the everest.yaml is updated."
+}

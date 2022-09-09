@@ -1,10 +1,10 @@
-name: Build
+# Make sure to set the helper name and files to package in the last two steps
 
+name: Release
 on:
   push:
-    branches: [ $default-branch ]
-  pull_request:
-    branches: [ $default-branch ]
+    paths:
+      - 'everest.yaml'
 
 jobs:
   build:
@@ -34,9 +34,12 @@ jobs:
       run: dotnet build --configuration Debug --no-restore
       env:
         CELESTEPREFIX: ${{ github.workspace }}/lib-stripped
-
-    - name: Upload build
+        
+    - name: Create mod zip
+      run: zip -qq -r Helper.zip Ahorn Audio Dialog Graphics Loenn everest.yaml Code/bin -x "Code/bin/Debug/*"
+      
+    - name: Upload ZIP
       uses: actions/upload-artifact@v3
       with:
-        name: bin
-        path: Code/bin/Debug/net452
+        name: zip
+        path: Helper.zip
