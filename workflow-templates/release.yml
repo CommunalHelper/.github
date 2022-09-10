@@ -1,6 +1,6 @@
-# Make sure to set the helper name and files to package in the last two steps
-
+# Make sure to set the helper name and files to package in the last step
 name: Release
+
 on:
   push:
     branches: [ $default-branch ]
