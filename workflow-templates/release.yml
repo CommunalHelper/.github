@@ -7,7 +7,7 @@ on:
       - 'everest.yaml'
 
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -34,12 +34,17 @@ jobs:
       run: dotnet build --configuration Debug --no-restore
       env:
         CELESTEPREFIX: ${{ github.workspace }}/lib-stripped
-        
-    - name: Create mod zip
-      run: zip -qq -r Helper.zip Ahorn Audio Dialog Graphics Loenn everest.yaml Code/bin -x "Code/bin/Debug/*"
       
     - name: Upload ZIP
       uses: actions/upload-artifact@v3
       with:
-        name: zip
-        path: Helper.zip
+        name: Helper
+        path: |
+          Audio
+          Ahorn
+          Code/bin
+          Dialog
+          Graphics
+          Loenn
+          everest.yaml
+          !Code/bin/Debug
