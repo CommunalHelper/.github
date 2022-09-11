@@ -15,10 +15,11 @@ Let us know if you are interested in helping!
 ## Legacy Helper Project
 There are many code mods (also known as **helpers**) that are no longer actively maintained, which can break maps or code relying on them as [Everest](https://everestapi.github.io/) changes or new helpers break compatibility. The goal of this project is to make those helpers open source and community-maintained.
 
-If you want to view documentation, submit a bug report, or make a contribution, go to the individual page for that helper. New features will be considered if they fall under the current scope of the helper, but the priority is preservation. 
+If you want to view documentation, submit a bug report, request a feature, or make a contribution, go to the individual page for that helper. New features will be considered if they fall under the current scope of the helper, but the priority is preservation. 
 
 Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Adventure Helper](https://github.com/CommunalHelper/AdventureHelper)
+- [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
 
 ## Contact
