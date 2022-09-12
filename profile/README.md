@@ -22,6 +22,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Anonhelper](https://github.com/CommunalHelper/AnonHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
+- [Shroom Helper](https://github.com/CommunalHelper/ShroomHelper)
 
 ## Contact
 Reach out to us in the [Celeste Discord](https://discord.com/invite/celeste) if you have any questions or would like to join the team.
