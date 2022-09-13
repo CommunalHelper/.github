@@ -22,6 +22,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Anonhelper](https://github.com/CommunalHelper/AnonHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
+- [Memorial Helper](https://github.com/CommunalHelper/MemorialHelper)
 - [Shroom Helper](https://github.com/CommunalHelper/ShroomHelper)
 
 ## Contact
