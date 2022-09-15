@@ -20,6 +20,8 @@ If you want to view documentation, submit a bug report, request a feature, or ma
 Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Adventure Helper](https://github.com/CommunalHelper/AdventureHelper)
 - [Anonhelper](https://github.com/CommunalHelper/AnonHelper)
+- [Batteries](https://github.com/CommunalHelper/Batteries)
+- [BGswitch](https://github.com/CommunalHelper/BGswitch)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
 - [Memorial Helper](https://github.com/CommunalHelper/MemorialHelper)
