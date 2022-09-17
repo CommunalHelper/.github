@@ -24,6 +24,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [BGswitch](https://github.com/CommunalHelper/BGswitch)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
+- [Isa's Grab Bag](https://github.com/CommunalHelper/IsaGrabBag)
 - [Memorial Helper](https://github.com/CommunalHelper/MemorialHelper)
 - [Shroom Helper](https://github.com/CommunalHelper/ShroomHelper)
 
