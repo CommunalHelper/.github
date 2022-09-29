@@ -22,6 +22,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Anonhelper](https://github.com/CommunalHelper/AnonHelper)
 - [Batteries](https://github.com/CommunalHelper/Batteries)
 - [BGswitch](https://github.com/CommunalHelper/BGswitch)
+- [Cavern Helper](https://github.com/CommunalHelper/CavernHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
 - [Isa's Grab Bag](https://github.com/CommunalHelper/IsaGrabBag)
