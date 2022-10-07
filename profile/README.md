@@ -25,6 +25,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Cavern Helper](https://github.com/CommunalHelper/CavernHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
+- [Honly Helper](https://github.com/CommunalHelper/HonlyHelper)
 - [Isa's Grab Bag](https://github.com/CommunalHelper/IsaGrabBag)
 - [Memorial Helper](https://github.com/CommunalHelper/MemorialHelper)
 - [Shroom Helper](https://github.com/CommunalHelper/ShroomHelper)
