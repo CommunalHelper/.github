@@ -7,7 +7,7 @@ All projects in this organization are open to bug reports, feature requests, and
 ## Communal Helper
 [Communal Helper](https://github.com/CommunalHelper/CommunalHelper) is a general-purpose code mod designed for open-source community development.
 
-## Legacy Lônn Plugins
+## Legacy Lönn Plugins
 To encourage the adoption of [Lönn](https://github.com/CelestialCartographers/Loenn), we are working to port helper plugins for legacy mods. Most plugins will be included with their helpers, but we are using the [LegacyLoennPlugins](https://github.com/CommunalHelper/Ahorn2Loenn) project for helpers we don't have edit access to. 
 
 Let us know if you are interested in helping! 
