@@ -23,7 +23,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Batteries](https://github.com/CommunalHelper/Batteries)
 - [BGswitch](https://github.com/CommunalHelper/BGswitch)
 - [Cavern Helper](https://github.com/CommunalHelper/CavernHelper)
-- [Crystalline Helper](https://github.com/CommunalHelper/CrystallineHelper)
+- [Eevee Helper](https://github.com/CommunalHelper/EeveeHelper)
 - [Em Helper](https://github.com/CommunalHelper/EmHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
