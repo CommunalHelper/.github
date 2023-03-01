@@ -22,15 +22,19 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Anonhelper](https://github.com/CommunalHelper/AnonHelper)
 - [Batteries](https://github.com/CommunalHelper/Batteries)
 - [BGswitch](https://github.com/CommunalHelper/BGswitch)
+- [Canyon Helper](https://github.com/CommunalHelper/CanyonHelper)
 - [Cavern Helper](https://github.com/CommunalHelper/CavernHelper)
 - [Eevee Helper](https://github.com/CommunalHelper/EeveeHelper)
 - [Em Helper](https://github.com/CommunalHelper/EmHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
+- [Glass Helper](https://github.com/CommunalHelper/GlassHelper)
 - [Honly Helper](https://github.com/CommunalHelper/HonlyHelper)
 - [Isa's Grab Bag](https://github.com/CommunalHelper/IsaGrabBag)
 - [Memorial Helper](https://github.com/CommunalHelper/MemorialHelper)
+- [Outback Helper](https://github.com/CommunalHelper/OutbackHelper)
 - [Shroom Helper](https://github.com/CommunalHelper/ShroomHelper)
+- [Sardine7](https://github.com/CommunalHelper/Sardine7)
 
 ## Contact
 Reach out to us in the [Celeste Discord](https://discord.com/invite/celeste) if you have any questions or would like to join the team.
