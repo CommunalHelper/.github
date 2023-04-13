@@ -25,7 +25,6 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Canyon Helper](https://github.com/CommunalHelper/CanyonHelper)
 - [Cavern Helper](https://github.com/CommunalHelper/CavernHelper)
 - [Cherry Helper](https://github.com/CommunalHelper/CherryHelper)
-- [Eevee Helper](https://github.com/CommunalHelper/EeveeHelper)
 - [Em Helper](https://github.com/CommunalHelper/EmHelper)
 - [Factory Helper](https://github.com/CommunalHelper/FactoryHelper)
 - [Furry Helper](https://github.com/CommunalHelper/FurryHelper)
