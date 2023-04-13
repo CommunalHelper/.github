@@ -41,4 +41,5 @@ Reach out to us in the [Celeste Discord](https://discord.com/invite/celeste) if 
 - Bigkahuna#8323
 - catapillie#1927
 - coloursofnoise#2236
-- Viv#1113
+- 🌟Luna🌟#4648
+- Vividescence#1113
