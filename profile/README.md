@@ -38,8 +38,8 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 
 ## Contact
 Reach out to us in the [Celeste Discord](https://discord.com/invite/celeste) if you have any questions or would like to join the team.
-- Bigkahuna#8323
-- catapillie#1927
-- coloursofnoise#2236
-- 🌟Luna🌟#4648
-- Vividescence#1113
+- `@bigkahuna443`
+- `@catapillie`
+- `@coloursofnoise`
+- `@helpful.deer.thoughts`
+- `@vividescence`
