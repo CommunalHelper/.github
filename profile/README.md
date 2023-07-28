@@ -35,6 +35,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [Outback Helper](https://github.com/CommunalHelper/OutbackHelper)
 - [Shroom Helper](https://github.com/CommunalHelper/ShroomHelper)
 - [Sardine7](https://github.com/CommunalHelper/Sardine7)
+- [VortexHelper](https://github.com/CommunalHelper/VortexHelper)
 
 ## Contact
 Reach out to us in the [Celeste Discord](https://discord.com/invite/celeste) if you have any questions or would like to join the team.
