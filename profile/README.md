@@ -38,7 +38,7 @@ Here is a list of legacy helpers maintained by the Communal Helper organization:
 - [VortexHelper](https://github.com/CommunalHelper/VortexHelper)
 
 ## Contact
-Reach out to us in the [Celeste Discord](https://discord.com/invite/celeste) if you have any questions or would like to join the team.
+Reach out to us in the [CommunalHelper Discord](https://discord.gg/rYM3tsUW3m) if you have any questions or would like to join the team.
 - `@bigkahuna443`
 - `@catapillie`
 - `@coloursofnoise`
