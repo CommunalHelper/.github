@@ -2,7 +2,7 @@ Communal Helper Organization
 ==========================
 This is a [Celeste](http://www.celestegame.com/) community modding organization. 
 
-All projects in this organization are open to bug reports, feature requests, and contributions.
+All projects in this organization are open to bug reports, feature requests, and contributions, and you can [join our Discord server](https://discord.gg/rYM3tsUW3m) for live updates and conservation about these.
 
 ## Communal Helper
 [Communal Helper](https://github.com/CommunalHelper/CommunalHelper) is a general-purpose code mod designed for open-source community development.
